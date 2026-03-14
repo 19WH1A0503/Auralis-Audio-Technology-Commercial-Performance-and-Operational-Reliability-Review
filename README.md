@@ -1,12 +1,6 @@
 # Auralis Audio Technologies || Commercial Performance and Operational Reliability Review || Reporting Period: Jan 2024 to Dec 2025
 ## 1) Background and overview
-Auralis operates across multiple sales channels (direct, retail, partner) with product lines spanning consumer audio and specialized segments. The business needs a unified view of 
-(1) sales performance, 
-(2) fulfillment reliability, 
-(3) conversion funnel drop-offs, 
-(4) forecast accuracy, 
-(5) marketing efficiency, and 
-(6) early product-quality signals to inform cross-functional decisions and prioritization.
+Auralis Audio Technologies operates across direct-to-consumer, retail, and partner channels, with product lines spanning consumer audio and specialized categories. As the business scales across markets and functions, leadership requires a unified view of sales performance, fulfillment reliability, funnel conversion, forecast accuracy, marketing efficiency, and early product-quality signals to support cross-functional decision-making and prioritization.
 
 ## 2) Data structure overview
 The dataset integrates multiple domains into a relational model designed for enterprise analytics:
