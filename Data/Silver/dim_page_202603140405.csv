@@ -1,0 +1,15 @@
+"page_id","page_path","page_type"
+PG-001,/,Category
+PG-002,/products,Compare
+PG-003,/products/headphones,Category
+PG-004,/products/earbuds,Checkout
+PG-005,/products/speakers,Landing
+PG-006,/products/home-theater,Content
+PG-007,/products/portable-pa,Cart
+PG-008,/products/aviation,PDP
+PG-009,/support,Compare
+PG-010,/support/warranty,Support
+PG-011,/cart,Compare
+PG-012,/checkout,Content
+PG-013,/blog/audio-tips,PDP
+PG-014,/compare,PDP
