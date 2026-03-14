@@ -1,0 +1,121 @@
+supplier_id,supplier_name,country,sla_days,onboarding_year
+SUP-770487,Nimbus Logistics,KR,10,2019
+SUP-216739,Apex Electronics,PL,14,
+SUP-126225,Pioneer Molds,KR,30,2020
+SUP-877572,Vega Micro,JP,21,2022
+SUP-388389,Orion Packaging,CN,21,2018
+SUP-356787,Nimbus Logistics,US,10,2020
+SUP-334053,Atlas Circuits,PL,14,2021
+SUP-246316,Nova Batteries,PL,21,2018
+SUP-872246,Nimbus Logistics,JP,10,2018
+SUP-207473,Pioneer Molds,MX,7,
+SUP-809570,Pioneer Molds,VN,,2021
+SUP-876646,Vega Micro,JP,14,2016
+SUP-671858,Orion Packaging,DE,10,2020
+SUP-191161,Apex Electronics,VN,,2020
+SUP-719176,Vega Micro,US,,2022
+SUP-542417,Vega Micro,VN,14,2019
+SUP-133326,Nova Batteries,MX,30,2018
+SUP-131244,Kairo Metals,VN,10,2018
+SUP-198246,Orion Packaging,US,10,2020
+SUP-329258,Zenith Plastics,MX,21,2021
+SUP-343962,Vega Micro,TW,30,2016
+SUP-629903,Summit Magnetics,PL,30,2023
+SUP-731262,Kairo Metals,PL,14,2020
+SUP-127824,Zenith Plastics,KR,30,2019
+SUP-688508,Summit Magnetics,TW,30,2018
+SUP-308496,Orion Packaging,TW,30,2018
+SUP-850800,Delta Components,VN,21,2023
+SUP-781453,Summit Magnetics,PL,21,2021
+SUP-835392,Atlas Circuits,US,14,2020
+SUP-671412,Kairo Metals,IN,10,2021
+SUP-539898,Summit Magnetics,IN,30,2020
+SUP-331148,Helios Audio Parts,MX,,2022
+SUP-571029,Delta Components,PL,10,2016
+SUP-717889,Pioneer Molds,PL,10,2021
+SUP-391704,Pioneer Molds,IN,14,2018
+SUP-948749,Atlas Circuits,PL,14,2018
+SUP-106814,Summit Magnetics,VN,,2019
+SUP-895667,Summit Magnetics,DE,7,2018
+SUP-944962,Nova Batteries,CN,7,2018
+SUP-267414,Summit Magnetics,TW,14,2019
+SUP-832052,Nimbus Logistics,KR,7,
+SUP-543143,Apex Electronics,MX,10,2018
+SUP-456778,Helios Audio Parts,DE,21,2016
+SUP-391369,Nova Batteries,IN,21,2022
+SUP-263032,Orion Packaging,TW,10,2022
+SUP-325772,Nova Batteries,PL,14,2019
+SUP-900581,Nimbus Logistics,KR,14,2020
+SUP-452944,Orion Packaging,PL,21,2021
+SUP-207175,Helios Audio Parts,US,10,2016
+SUP-197251,Nimbus Logistics,US,14,2023
+SUP-498382,Zenith Plastics,KR,,2023
+SUP-201414,Apex Electronics,KR,14,2019
+SUP-476417,Helios Audio Parts,IN,30,2016
+SUP-988662,Summit Magnetics,KR,14,2023
+SUP-460663,Zenith Plastics,VN,10,2020
+SUP-733052,Atlas Circuits,PL,21,2021
+SUP-377370,Helios Audio Parts,DE,21,2021
+SUP-946335,Atlas Circuits,JP,30,2021
+SUP-145561,Orion Packaging,KR,10,2023
+SUP-865179,Zenith Plastics,MX,14,2023
+SUP-581741,Apex Electronics,US,14,2022
+SUP-662275,Summit Magnetics,VN,21,2021
+SUP-230889,Summit Magnetics,TW,7,2022
+SUP-496922,Nimbus Logistics,JP,,2021
+SUP-182627,Summit Magnetics,DE,14,2021
+SUP-678856,Vega Micro,JP,10,2018
+SUP-407419,Nova Batteries,KR,30,2022
+SUP-969693,Delta Components,IN,21,2022
+SUP-759176,Apex Electronics,US,30,2021
+SUP-748564,Zenith Plastics,US,10,2022
+SUP-479201,Vega Micro,TW,14,2021
+SUP-705397,Apex Electronics,IN,14,2019
+SUP-301629,Zenith Plastics,PL,,2019
+SUP-838797,Kairo Metals,CN,7,2019
+SUP-172933,Kairo Metals,VN,10,2020
+SUP-148050,Atlas Circuits,US,10,2016
+SUP-793384,Apex Electronics,MX,10,2021
+SUP-338968,Kairo Metals,US,14,2019
+SUP-910620,Zenith Plastics,JP,10,2021
+SUP-403445,Atlas Circuits,US,10,2020
+SUP-183667,Summit Magnetics,US,30,2021
+SUP-996865,Zenith Plastics,CN,30,2019
+SUP-344098,Atlas Circuits,CN,7,2019
+SUP-205907,Apex Electronics,DE,10,2020
+SUP-498591,Vega Micro,PL,21,2021
+SUP-391476,Nimbus Logistics,MX,10,2019
+SUP-575435,Summit Magnetics,US,10,2023
+SUP-766563,Helios Audio Parts,US,10,2016
+SUP-974628,Vega Micro,VN,10,2020
+SUP-482554,Orion Packaging,CN,30,
+SUP-270555,Zenith Plastics,MX,7,2021
+SUP-488162,Orion Packaging,TW,21,2020
+SUP-472528,Vega Micro,DE,14,2021
+SUP-319684,Atlas Circuits,PL,10,2021
+SUP-802729,Helios Audio Parts,IN,14,2022
+SUP-379946,Summit Magnetics,PL,10,2018
+SUP-835911,Summit Magnetics,JP,14,2019
+SUP-816751,Summit Magnetics,US,7,2021
+SUP-779514,Helios Audio Parts,DE,7,2022
+SUP-174870,Delta Components,JP,21,2021
+SUP-738720,Helios Audio Parts,MX,10,2019
+SUP-765822,Nimbus Logistics,IN,7,2021
+SUP-279451,Helios Audio Parts,CN,10,2022
+SUP-660086,Vega Micro,DE,7,2019
+SUP-864544,Delta Components,DE,30,2020
+SUP-356702,Summit Magnetics,US,7,2021
+SUP-271339,Vega Micro,KR,14,2020
+SUP-584714,Vega Micro,DE,14,2020
+SUP-497887,Pioneer Molds,VN,21,2019
+SUP-383060,Nova Batteries,IN,10,2018
+SUP-771088,Delta Components,IN,7,2016
+SUP-821590,Vega Micro,VN,,2023
+SUP-684004,Nova Batteries,TW,30,2022
+SUP-330283,Nova Batteries,VN,30,2020
+SUP-817870,Delta Components,VN,10,2023
+SUP-440035,Pioneer Molds,IN,7,2021
+SUP-983794,Orion Packaging,PL,10,2020
+SUP-905635,Atlas Circuits,IN,14,2020
+SUP-913694,Nimbus Logistics,KR,10,2018
+SUP-158655,Atlas Circuits,US,30,2018

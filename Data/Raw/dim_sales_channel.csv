@@ -1,0 +1,9 @@
+sales_channel_id,channel_name,channel_type,channel_subtype,scope,launch_date,active_flag
+SC-001,Online DTC,Direct,Web,Global,2019-12-13,1
+SC-002,Mobile App,Direct,App,Global,2024-11-06,1
+SC-003,Retail Big Box,Retail,Big Box,Regional,2020-04-11,1
+SC-004,Retail Specialty,Retail,Specialty,Regional,2022-10-29,0
+SC-005,Marketplace,Partner,Marketplace,Global,2020-09-04,1
+SC-006,Distributor,Partner,Distributor,Regional,2022-04-01,1
+SC-007,Automotive OEM,Partner,OEM,Global,2023-06-21,0
+SC-008,Enterprise Sales,Direct,B2B,Regional,2020-04-02,0

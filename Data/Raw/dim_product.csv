@@ -1,0 +1,57 @@
+product_id,product_name,product_type,product_line,launch_date,msrp,primary_supplier_id,is_active
+PRD-66155,Headphones Pulse 700,Headphones,Mid,2023-12-22,264.69,SUP-131244,0
+PRD-24371,Headphones Pro 300,Headphones,Mid,2019-05-27,221.73,SUP-460663,1
+PRD-71348,Headphones Wave 500,Headphones,Mid,2024-01-26,295.19,SUP-771088,1
+PRD-99353,Headphones Wave 500,Headphones,Entry,2019-12-22,201.04,SUP-391369,1
+PRD-10425,Headphones Nova 500,Headphones,Premium,2022-11-10,616.38,SUP-816751,1
+PRD-49117,Headphones Shield 900,Headphones,Premium,2024-04-26,855.31,SUP-329258,0
+PRD-10074,Headphones Pulse 600,Headphones,Mid,2023-07-06,239.39,SUP-719176,1
+PRD-41385,Headphones Quiet 400,Headphones,Entry,2021-08-13,230.81,SUP-809570,1
+PRD-79822,Headphones Pro 300,Headphones,Premium,2019-08-04,642.0,SUP-479201,1
+PRD-65461,Headphones Max 900,Headphones,Premium,2024-02-28,662.84,SUP-974628,1
+PRD-95180,Headphones Studio 800,Headphones,Premium,2024-09-17,554.86,SUP-946335,1
+PRD-12757,Headphones Pulse 900,Headphones,Premium,2021-11-16,511.35,SUP-835392,1
+PRD-40007,Headphones Ultra 100,Headphones,Premium,2019-07-02,752.92,SUP-207473,1
+PRD-38080,Headphones Wave 300,Headphones,Mid,2023-02-17,268.62,SUP-684004,1
+PRD-63354,Earbuds Max 200,Earbuds,Mid,2023-01-09,259.75,SUP-733052,1
+PRD-17100,Earbuds Shield 200,Earbuds,Mid,2025-03-15,301.78,SUP-319684,1
+PRD-35112,Earbuds Max 900,Earbuds,Premium,2021-02-11,829.84,SUP-460663,1
+PRD-68082,Earbuds Wave 200,Earbuds,Premium,08/23/2019,630.31,SUP-748564,1
+PRD-40982,Earbuds Pro 700,Earbuds,Entry,2025-05-30,244.35,SUP-781453,1
+PRD-59672,Earbuds Quiet 700,Earbuds,Entry,2020-05-26,234.37,SUP-738720,1
+PRD-82845,Earbuds Shield 800,Earbuds,Mid,2024-12-04,270.31,SUP-895667,1
+PRD-81066,Earbuds Quiet 600,Earbuds,Premium,04/04/2025,428.24,SUP-172933,1
+PRD-30635,Earbuds Quiet 900,Earbuds,Mid,2023-07-09,428.85,SUP-127824,1
+PRD-62923,Earbuds Ultra 400,Earbuds,Premium,2020-12-31,432.98,SUP-356787,1
+PRD-84085,Earbuds Wave 600,Earbuds,Mid,2023-12-19,303.81,SUP-850800,1
+PRD-61876,Earbuds Pro 500,Earbuds,Mid,2021-04-05,277.55,SUP-913694,1
+PRD-23104,Speakers Ultra 900,Speakers,Premium,2023-10-16,709.58,SUP-717889,1
+PRD-42018,Speakers Studio 500,Speakers,Premium,2019-08-02,573.5,SUP-271339,1
+PRD-79329,Speakers Quiet 900,Speakers,Mid,2024-07-24,274.63,SUP-498591,1
+PRD-25129,Speakers Ultra 900,Speakers,Premium,2021-04-01,838.06,SUP-106814,1
+PRD-93130,Home Theater Flex 900,Home Theater,Premium,2024-11-05,570.44,SUP-440035,1
+PRD-65518,Home Theater Flex 100,Home Theater,Entry,05/24/2024,106.62,SUP-779514,1
+PRD-67912,Home Theater Wave 700,Home Theater,Premium,2020-05-17,888.9,SUP-719176,1
+PRD-81511,Home Theater Quiet 600,Home Theater,Premium,2020-04-08,840.55,SUP-198246,1
+PRD-15229,Home Theater Studio 400,Home Theater,Mid,2022-02-06,209.46,SUP-391476,1
+PRD-91351,Home Theater Nova 300,Home Theater,Premium,2022-06-16,789.06,SUP-539898,1
+PRD-64040,Home Theater Quiet 300,Home Theater,Entry,2020-07-04,245.43,SUP-456778,1
+PRD-42527,Home Theater Flex 300,Home Theater,Mid,2024-09-12,301.93,SUP-191161,1
+PRD-39154,Home Theater Max 800,Home Theater,Mid,2023-01-02,208.68,SUP-356702,1
+PRD-96511,Home Theater Max 700,Home Theater,Mid,2019-03-15,255.9,SUP-771088,1
+PRD-94080,Home Theater Wave 700,Home Theater,Premium,2021-12-26,785.66,SUP-584714,1
+PRD-44237,Home Theater Pro 500,Home Theater,Mid,12/25/2019,433.81,SUP-793384,1
+PRD-89457,Portable PA Wave 200,Portable PA,Premium,2022-09-17,792.21,SUP-838797,1
+PRD-10221,Portable PA Wave 900,Portable PA,Premium,2022-09-16,421.19,SUP-802729,1
+PRD-19171,Portable PA Shield 600,Portable PA,Mid,2022-09-01,248.26,SUP-498591,1
+PRD-76469,Portable PA Flex 700,Portable PA,Entry,2021-07-22,206.96,SUP-482554,1
+PRD-97153,Portable PA Air 300,Portable PA,Premium,2022-07-30,462.64,SUP-944962,0
+PRD-47606,Portable PA Max 700,Portable PA,Mid,2021-08-02,407.43,SUP-338968,1
+PRD-98555,Portable PA Max 900,Portable PA,Mid,2022-10-05,315.25,SUP-440035,1
+PRD-21114,Portable PA Flex 900,Portable PA,Entry,2024-08-08,209.39,SUP-403445,1
+PRD-40784,Portable PA Shield 500,Portable PA,Premium,2025-05-22,808.21,SUP-308496,0
+PRD-90120,Aviation Headsets Ultra 800,Aviation Headsets,Premium,2023-01-16,521.42,SUP-183667,1
+PRD-74799,Aviation Headsets Air 400,Aviation Headsets,Mid,2022-04-07,378.59,SUP-974628,1
+PRD-65724,Aviation Headsets Max 300,Aviation Headsets,Premium,2019-11-28,774.48,SUP-482554,1
+PRD-25906,Aviation Headsets Link 300,Aviation Headsets,Mid,2021-02-13,211.55,SUP-391476,1
+PRD-68008,Aviation Headsets Pulse 900,Aviation Headsets,Mid,2021-09-12,338.73,SUP-983794,1
