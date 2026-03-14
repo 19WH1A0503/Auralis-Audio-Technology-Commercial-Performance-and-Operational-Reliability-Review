@@ -19,6 +19,7 @@ A layered warehouse pattern was used (raw → silver → gold → mart) to separ
 ![](https://github.com/19WH1A0503/Auralis-Audio-Technology-Commercial-Performance-and-Operational-Reliability-Review/blob/main/Images/Auralis's%20ER%20diagram.png)
 
 ## 3) Executive summary (key outcomes)
+![](https://github.com/19WH1A0503/Auralis-Audio-Technology-Commercial-Performance-and-Operational-Reliability-Review/blob/main/Images/Shipping%20Root%20Cause.png)
 Auralis Audio closed the period at $2.5M in revenue across 5,000 orders, but three issues require management attention. First, fulfillment reliability is the largest service risk, with an 80.72% on-time rate and roughly 19% of shipments delivered late. Second, commercial conversion is efficient overall, with 20.13% PV→ATC, but performance gaps by channel indicate missed digital revenue. Third, forecast accuracy is acceptable at 10.27% MAPE, though category-level variance, especially in Home Theater, raises planning risk. Data quality is sufficient for decision-making, but attribution gaps remain material in web and purchase linking.
 
 ## 4) Insights deep dive
@@ -41,6 +42,7 @@ Why it matters: Returns hit margin, inflate reverse logistics workload, and ofte
 What to do with it: Treat returns as a segmented KPI: by product_type × channel_name × late_flag.
 
 ### C) Funnel conversion is solid overall but channel gaps are real
+![](https://github.com/19WH1A0503/Auralis-Audio-Technology-Commercial-Performance-and-Operational-Reliability-Review/blob/main/Images/Funnel%20Diagnostics.png)
 - Product views: 10.234K
 - Add to cart: 5K
 - PV→ATC: 20.13% (baseline)
@@ -57,12 +59,14 @@ Why it matters: The ROAS band suggests consistent performance, but the magnitude
 Action: Use attribution for relative ranking now; validate absolute numbers via stronger order-linking and campaign/order reconciliation (see recommendations).
 
 ### E) Forecast accuracy is acceptable but category outliers need attention
+![](https://github.com/19WH1A0503/Auralis-Audio-Technology-Commercial-Performance-and-Operational-Reliability-Review/blob/main/Images/Forecast%20Accuracy.png)
 - Overall MAPE: 10.27%
 -Category pattern: Home Theater shows the highest MAPE (~12.78%), while Headphones are strongest (~8.61%).
 
 Why it matters: Poor accuracy creates stockouts or excess inventory. The category spread implies forecasting needs category-specific features (promo calendar, channel mix, seasonality, lead time).
 
 ### F) Data Health shows tracking gaps are the main constraint, not the warehouse
+![](https://github.com/19WH1A0503/Auralis-Audio-Technology-Commercial-Performance-and-Operational-Reliability-Review/blob/main/Images/Data%20Health.png)
 - Web customer null: 60.36% (anonymous traffic is expected)
 - Purchase missing order link: 17.19% (measurable attribution loss)
 - Shipments without orders: 2.04% (low but track)
@@ -72,6 +76,7 @@ Why it matters: These are exactly the “real world joins from hell” issues, b
 
 
 ### G) Product quality signals point to category-level risk
+![](https://github.com/19WH1A0503/Auralis-Audio-Technology-Commercial-Performance-and-Operational-Reliability-Review/blob/main/Images/Product%20Quality%20Signal.png)
 - Reported crash rate and disconnect metrics suggest category differentiation and a need for firmware stability monitoring and targeted quality initiatives.
 
 Important caveat: Several “claims sum” style metrics can be inflated if the measure is summed rather than counted. For stakeholder reporting, warranty volume should be based on COUNT(claim_id) and normalized (e.g., claims per 1K orders) to avoid misleading scale.
