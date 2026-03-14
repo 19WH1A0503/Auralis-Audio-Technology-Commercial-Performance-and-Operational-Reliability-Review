@@ -1,0 +1,5 @@
+"metric","value"
+purchase_missing_order_rate,0.1719
+web_customer_null_rate,0.6036
+shipments_without_orders_rate,0.0204
+warranty_without_orders_rate,0.0223
