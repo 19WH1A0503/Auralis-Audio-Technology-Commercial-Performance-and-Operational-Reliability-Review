@@ -1,4 +1,5 @@
 # Auralis Audio Technologies || Commercial Performance and Operational Reliability Review || Reporting Period: Jan 2024 to Dec 2025
+### [Code](https://github.com/19WH1A0503/Auralis-Audio-Technology-Commercial-Performance-and-Operational-Reliability-Review/tree/main/Code)
 ## 1) Background and overview
 Auralis Audio Technologies operates across direct-to-consumer, retail, and partner channels, with product lines spanning consumer audio and specialized categories. As the business scales across markets and functions, leadership requires a unified view of sales performance, fulfillment reliability, funnel conversion, forecast accuracy, marketing efficiency, and early product-quality signals to support cross-functional decision-making and prioritization.
 
